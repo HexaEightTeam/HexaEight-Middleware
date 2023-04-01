@@ -1,4 +1,4 @@
-# Sample Weather Application 
+# Sample Weather Application .NET
 
 ### This sample Application uses HexaEight Middleware to provide access to only authorized users using HexaEight Sessions.
 
