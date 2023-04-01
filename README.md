@@ -36,7 +36,7 @@ Request finished HTTP/1.1 GET http://localhost:5000/DY8YEf6N6oV6EylRf07!2BEroXnm
 
 Below are the Server side Demo code samples which can be used to protect APIs
 
-Sample-Weather-Application (.NET Core) - Written in c#
+[Sample-Weather-Application (.NET Core) - Written in c#](https://github.com/HexaEightTeam/HexaEight-Middleware/tree/main/Sample-Middleware-Demo-CSharp)
 
 
 
