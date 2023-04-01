@@ -1,5 +1,5 @@
 # HexaEight-Session-Middleware
-HexaEight Middleware uses HexaEight Token Server to provide protection for your API by implementing token-less authentication provided by HexaEight Sessions
+HexaEight Middleware uses token-less authentication and protects your Backend APIs without relying on HTTPs by using Client Tokens provided by HexaEight Token Server to decrypt incoming requests and encrypt outgoing responses from and to HexaEight Front End Sessions.
 
 HexaEight Middleware is currently available as 
 
