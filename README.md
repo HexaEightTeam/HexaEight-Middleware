@@ -23,7 +23,7 @@ PkceVerified : If true, then this entire message has been verified and it can sa
 Provider : HexaEight - This is a constant which can be used to verify if the incoming request is an HexaEight Session.
 ```
 
-** Note: The developer/implementor of HexaEight Middleware must remember that the request from HexaEight Session inside the Client Application will reach the Middleware API Server only if HexaEight Token Server authorizes the request and issues a Valid Client Token for the Middleware API Servrer. Hence there is no specific authorization logic implemented inside the Middleware code. It is up to the developer/implementor to add additional authorization if required for the application as per their requirements**
+**Note: The developer/implementor of HexaEight Middleware must remember that the request from HexaEight Session inside the Client Application will reach the Middleware API Server only if HexaEight Token Server authorizes the request and issues a Valid Client Token for the Middleware API Servrer. Hence there is no specific authorization logic implemented inside the Middleware code. It is up to the developer/implementor to add additional authorization if required for the application as per their requirements**
 
 ![HexaEight-Application-Life-Cycle](https://github.com/HexaEightTeam/HexaEight-Middleware/blob/main/lifecycle-of-hexaeight-application.svg?raw=true)
 
